@@ -15,7 +15,9 @@ CS student at the University of Illinois Chicago, building things and looking fo
 
 ## Tech Stack
 **Core Skills:** C++ · Python · Java · JavaScript · HTML/CSS · SwiftUI
+
 **Languages:** Marathi, Hindi, Spanish 
+
 **Tools:** Git · GitHub · Autodesk Inventor · Anthropic API · REST API · Fast API
 
 
