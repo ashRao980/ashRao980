@@ -2,9 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:166534,100:22c55e&height=240&section=header&text=Ash&fontSize=56&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=CS%20Student%20@%20UIC%20%C2%B7%20Chicago,%20IL&descAlignY=60&descSize=18&descColor=dcfce7)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-166534?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashtotrarao
-)
-[![Email](https://img.shields.io/badge/Email-166534?style=for-the-badge&logo=gmail&logoColor=white)](ashtotra.rao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-166534?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashtotrarao)
+[![Email](https://img.shields.io/badge/Email-166534?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashtotra.rao@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-166534?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashRao980)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=650&lines=CS+student+@+UIC;Building+Pitch+Finder+App;Looking+for+SWE+internships)
