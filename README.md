@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ash&fontSize=52&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=CS%20Student%20@%20UIC&descAlignY=62&descSize=16&descColor=a78bfa)
+
 # Hey, I'm Ash 👋
 
 CS student at the University of Illinois Chicago, building things and looking for software engineering internships.
