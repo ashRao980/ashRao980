@@ -24,9 +24,9 @@
 ![CSS](https://img.shields.io/badge/CSS-166534?style=flat-square&logo=css3&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-166534?style=flat-square&logo=swift&logoColor=white)
 
-![REST API](https://img.shields.io/badge/RESTAPI-166534?style=flat-square&logo=swift&logoColor=white)
-![Anthropic API](https://img.shields.io/badge/AnthropicAPI-166534?style=flat-square&logo=swift&logoColor=white)
-![Fast API](https://img.shields.io/badge/FastAPI-166534?style=flat-square&logo=swift&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-166534?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-166534?style=flat-square&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-166534?style=flat-square&logo=anthropic&logoColor=white)
 
 
 
