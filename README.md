@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:166534,100:22c55e&height=220&section=header&text=Ash&fontSize=52&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=CS%20Student%20@%20UIC&descAlignY=62&descSize=16&descColor=dcfce7)
 
+## Contact
+[LinkedIn](www.linkedin.com/in/ashtotrarao) · [Email](ashtotra.rao@gmail.com) 
+
 # Hey, I'm Ash 👋
 
 CS student at the University of Illinois Chicago, building things and looking for software engineering internships.
@@ -7,23 +10,21 @@ CS student at the University of Illinois Chicago, building things and looking fo
 ## whoami
 - 🎓 B.S. Computer Science, UIC (Expected Dec 2028)
 - 📍 Chicago, IL
-- 🔭 Currently building: [project name], [one-line description]
+- 🔭 Currently building: [Pitch Finder App], [A place where soccer players can find pitches near them and organize pickup soccer games]
 - 🎯 Looking for: SWE internships
 
 ## Tech Stack
-**Languages:** C++ · Python · Java · JavaScript · HTML/CSS · SwiftUI
+**Core Skills:** C++ · Python · Java · JavaScript · HTML/CSS · SwiftUI
+**Languages:** Marathi, Hindi, Spanish 
+**Tools:** Git · GitHub · Autodesk Inventor · Anthropic API · REST API · Fast API
 
-**Concepts:** Data Structures · Algorithms · OOP · Software Design · Data Persistence
-
-**Tools:** Git · GitHub · [add only what you've really used]
 
 ## Featured Project
-### [Project name] *(in progress)*
-[1–2 sentences: what it does and why you built it]
+### [Pitch Finder] *(in progress)*
+Currently working on building pitch finder app. 
 
-- **Built with:** [languages/tools]
+
+- **Built with:** C++ and Python 
 - **Features:** [2–3 bullets]
 - [→ View repo](link)
 
-## Contact
-[LinkedIn](your-linkedin-url) · [Email](mailto:your-email)
