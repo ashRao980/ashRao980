@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Ash 👋
 
-<!--
-**ashRao980/ashRao980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at the University of Illinois Chicago, building things and looking for software engineering internships.
 
-Here are some ideas to get you started:
+## whoami
+- 🎓 B.S. Computer Science, UIC (Expected Dec 2028)
+- 📍 Chicago, IL
+- 🔭 Currently building: [project name], [one-line description]
+- 🎯 Looking for: SWE internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Languages:** C++ · Python · Java · JavaScript · HTML/CSS · SwiftUI
+
+**Concepts:** Data Structures · Algorithms · OOP · Software Design · Data Persistence
+
+**Tools:** Git · GitHub · [add only what you've really used]
+
+## Featured Project
+### [Project name] *(in progress)*
+[1–2 sentences: what it does and why you built it]
+
+- **Built with:** [languages/tools]
+- **Features:** [2–3 bullets]
+- [→ View repo](link)
+
+## Contact
+[LinkedIn](your-linkedin-url) · [Email](mailto:your-email)
