@@ -38,7 +38,6 @@
 Find soccer pitches near you and organize pickup games.
 
 - **Built with:** C++ • Python • Pybind 11 • SQL
-- **Features:** [2–3 bullets]
 - [→ View repo](LINK_TO_REPO)
 
 <div align="center">
