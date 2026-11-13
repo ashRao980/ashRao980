@@ -38,7 +38,7 @@
 Find soccer pitches near you and organize pickup games.
 
 - **Built with:** C++ • Python • Pybind 11 • SQL
-- [→ View repo](LINK_TO_REPO)
+- [→ View repo](https://github.com/ashRao980/pitch-finder))
 
 <div align="center">
 
